@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/ecomm-react/static/css/main.3a8e6e6f.css",
-    "main.js": "/ecomm-react/static/js/main.bd6139e6.js",
-    "static/media/cart-empty.jpg": "/ecomm-react/static/media/cart-empty.19daf4e79604b06d9ebe.jpg",
-    "index.html": "/ecomm-react/index.html",
-    "main.3a8e6e6f.css.map": "/ecomm-react/static/css/main.3a8e6e6f.css.map",
-    "main.bd6139e6.js.map": "/ecomm-react/static/js/main.bd6139e6.js.map"
+    "main.css": "/react-ecomm/static/css/main.3a8e6e6f.css",
+    "main.js": "/react-ecomm/static/js/main.87d7ed42.js",
+    "static/media/cart-empty.jpg": "/react-ecomm/static/media/cart-empty.19daf4e79604b06d9ebe.jpg",
+    "index.html": "/react-ecomm/index.html",
+    "main.3a8e6e6f.css.map": "/react-ecomm/static/css/main.3a8e6e6f.css.map",
+    "main.87d7ed42.js.map": "/react-ecomm/static/js/main.87d7ed42.js.map"
   },
   "entrypoints": [
     "static/css/main.3a8e6e6f.css",
-    "static/js/main.bd6139e6.js"
+    "static/js/main.87d7ed42.js"
   ]
 }
